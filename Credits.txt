@@ -34,6 +34,10 @@ All images/photos
 https://unsplash.com/
 https://behance.com/
 
+Image for Django Text Game Builder provided by Shan Horan.
+Commissioned for use and used with explicit permission.
+https://bsky.app/profile/shanhoran.bsky.social
+
 ========================================================================================
 
 Font icons
