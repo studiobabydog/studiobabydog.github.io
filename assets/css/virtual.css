@@ -1425,6 +1425,6 @@ a:hover, a:active {
     border-color: #6f42c1;
 }
 
-#games2-gridder {
+#games-gridder, #games2-gridder {
     height: 100% !important;
 }
