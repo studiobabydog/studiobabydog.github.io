@@ -1085,6 +1085,7 @@ a:hover, a:active {
     background-color: #323131;
     color: #fff;
     z-index: 11;
+    overflow-wrap: break-word;
 }
 
 .grid-item .img-caption p {
