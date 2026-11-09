@@ -1,3 +1,10 @@
+  window.addEventListener("load", function(){
+    var $grid = $('.gridder').isotope({
+      itemSelector: '.grid-item',
+      percentPosition: true
+    });
+  });
+  
 $(function() {
   var $grid = $('.gridder').isotope({
     itemSelector: '.grid-item',
